@@ -1,4 +1,3 @@
-#code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +7,8 @@
     <title>Document</title>
 </head>
 <body>
+    <body bgcolor=" FFFFF7">
+
     <header>
   <h1><b>LOGIN CREDENTIALS</b></h1>
 </header>
@@ -17,8 +18,10 @@
     <h1>username<input type="text">  </h1>
 
 <h1>password <input type="text" ></h1>
+<h1>confirm password <input type="text"> </h1>
 
 <button type="button">submit</button>
+
 </pre>
 </section>
 
