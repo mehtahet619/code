@@ -20,7 +20,7 @@
 <h1>password <input type="text" ></h1>
 <h1>confirm password <input type="text"> </h1>
 
-<button type="button">submit</button>
+<button>submit</button>
 
 </pre>
 </section>
